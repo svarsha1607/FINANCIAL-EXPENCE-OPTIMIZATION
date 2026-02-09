@@ -1,6 +1,6 @@
-Financial Expense Monitoring Dashboard
+**Financial Expense Optimization**
 
-Project Overview
+**Project Overview**
 
 This project presents a Financial Expense Monitoring Dashboard developed
 using Microsoft Power BI. The objective is to analyze departmental
@@ -9,7 +9,7 @@ budgets, and support financial decision-making. A custom dataset was
 created and used to build interactive visualizations that provide
 insights into organizational financial performance.
 
-Dataset Description
+**Dataset Description**
 
 Two datasets were used in this project:
 1. Clean Dataset 
@@ -31,13 +31,13 @@ Two datasets were used in this project:
 
 This dataset was used to demonstrate data validation and cleaning techniques.
 
-Tools and Technologies
+**Tools and Technologies**
 
 -   Microsoft Power BI Desktop
 -   DAX (Data Analysis Expressions)
 -   Microsoft Excel / CSV Data Sources
 
-Key DAX Measures
+**Key DAX Measures**
 
 -   Total Expenses — Calculates the sum of all expense amounts
 -   Total Budget — Calculates total allocated budget
@@ -47,7 +47,7 @@ Key DAX Measures
   These measures enabled calculation of performance indicators for
 dashboard analysis.
 
-Dashboard Features
+**Dashboard Features**
 
 -   Department-wise expense distribution (Bar Chart)
 -   Expense category distribution (Pie Chart)
@@ -57,7 +57,7 @@ Dashboard Features
 -   KPI summary cards
 -   Interactive slicers for filtering by department and month
 
-Insights and Findings
+**Insights and Findings**
 
 -   Operational expenses contributed significantly to total spending.
 -   Expense patterns varied across months, showing fluctuations in
@@ -65,15 +65,15 @@ Insights and Findings
 -   Budget comparison helped identify overspending risks.
 -   Data validation highlighted potential issues caused by incomplete or
     inconsistent data.
-
-Recommendations
+**
+Recommendations**
 
 -   Implement periodic budget monitoring
 -   Optimize high-cost categories
 -   Conduct regular data quality checks
 -   Use forecasting for financial planning
 
-Conclusion
+**Conclusion**
 
 The dashboard demonstrates how business intelligence tools can transform
 raw financial data into meaningful insights. By integrating visual
